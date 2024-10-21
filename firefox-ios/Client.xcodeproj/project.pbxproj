@@ -32,7 +32,6 @@
 		0AFF7F6D2C7C7BBA00265214 /* CertificatesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AFF7F6A2C7C7BB900265214 /* CertificatesViewController.swift */; };
 		0B11AF022CB412D100AD51D5 /* Metrics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B11AF002CB412D100AD51D5 /* Metrics.swift */; };
 		0B11AF042CB4130F00AD51D5 /* Metrics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B11AF032CB4130F00AD51D5 /* Metrics.swift */; };
-		0AFF7F6E2C7C7BBA00265214 /* CertificatesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AFF7F6B2C7C7BB900265214 /* CertificatesModel.swift */; };
 		0B305E1B1E3A98A900BE0767 /* BookmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B305E1A1E3A98A900BE0767 /* BookmarksTests.swift */; };
 		0B3D670E1E09B90B00C1EFC7 /* AuthenticationTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3D670D1E09B90B00C1EFC7 /* AuthenticationTest.swift */; };
 		0B3F8C5E2CA4471C00DB5367 /* EditBookmarkViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3F8C5D2CA4471C00DB5367 /* EditBookmarkViewModel.swift */; };
@@ -2278,7 +2277,6 @@
 		0AFF7F6A2C7C7BB900265214 /* CertificatesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CertificatesViewController.swift; sourceTree = "<group>"; };
 		0B11AF002CB412D100AD51D5 /* Metrics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Metrics.swift; sourceTree = "<group>"; };
 		0B11AF032CB4130F00AD51D5 /* Metrics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Metrics.swift; sourceTree = "<group>"; };
-		0AFF7F6B2C7C7BB900265214 /* CertificatesModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CertificatesModel.swift; sourceTree = "<group>"; };
 		0B305E1A1E3A98A900BE0767 /* BookmarksTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarksTests.swift; sourceTree = "<group>"; };
 		0B3D670D1E09B90B00C1EFC7 /* AuthenticationTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthenticationTest.swift; sourceTree = "<group>"; };
 		0B3F8C5D2CA4471C00DB5367 /* EditBookmarkViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBookmarkViewModel.swift; sourceTree = "<group>"; };
@@ -4026,6 +4024,7 @@
 		43571C312C57B52200A2DD89 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Toolbar.strings; sourceTree = "<group>"; };
 		43571D57293E0A2000EF42C5 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Alerts.strings; sourceTree = "<group>"; };
 		43571D58293E0A2000EF42C5 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/TabsTray.strings; sourceTree = "<group>"; };
+		43572A112CC674330021066C /* rm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = rm; path = rm.lproj/PasswordGenerator.strings; sourceTree = "<group>"; };
 		435784DC2A24C0C80046746E /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/DisplayCard.strings"; sourceTree = "<group>"; };
 		435784DD2A24C0C80046746E /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/FirefoxSync.strings"; sourceTree = "<group>"; };
 		435784DE2A24C0C80046746E /* pt-PT */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-PT"; path = "pt-PT.lproj/Upgrade.strings"; sourceTree = "<group>"; };
@@ -20431,6 +20430,7 @@
 				43144D3E2CBD337F00A4A888 /* br */,
 				4345B7712CBD339D00A50A82 /* bs */,
 				43C93FB52CBD35B30006D3F8 /* gd */,
+				43572A112CC674330021066C /* rm */,
 			);
 			name = PasswordGenerator.strings;
 			sourceTree = "<group>";
