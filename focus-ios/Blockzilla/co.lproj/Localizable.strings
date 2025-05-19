@@ -25,6 +25,9 @@
 /* Label for row in About screen */
 "About.rowRights" = "Diritti di l’utilizatore";
 
+/* Label for row in About screen */
+"About.rowTerms" = "Cundizioni d’utilizazione";
+
 /* Label on About screen */
 "About.safariBullet1" = "Bluccate i perseguitatori per amendà a vita privata";
 
@@ -641,7 +644,7 @@
 "URL.paste" = "Incullà";
 
 /* Placeholder text shown in the URL bar before the user navigates to a page */
-"URL.placeholderText" = "Ricerca o indirizzu";
+"URL.placeholderText" = "Circà o stampittà un indirizzu";
 
 /* Label displayed for search button when typing in the URL bar */
 "URL.searchLabel" = "Circà %@";
