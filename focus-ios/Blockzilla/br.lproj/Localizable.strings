@@ -25,6 +25,9 @@
 /* Label for row in About screen */
 "About.rowRights" = "Ho kwirioù";
 
+/* Label for row in About screen */
+"About.rowTerms" = "Termenoù implij";
+
 /* Label on About screen */
 "About.safariBullet1" = "Stankit an heulierien evit difenn ho puhez prevez";
 
