@@ -4775,6 +4775,7 @@
 		436A76E22C2053FA0011F985 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
 		436A76E32C2053FA0011F985 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/EnhancedTrackingProtection.strings; sourceTree = "<group>"; };
 		436A76E42C2053FA0011F985 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/QRCode.strings; sourceTree = "<group>"; };
+		436A776C2E4A07C80050B1F0 /* es-ES */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-ES"; path = "es-ES.lproj/WidgetIntents.strings"; sourceTree = "<group>"; };
 		436A8C9A2AC1A1B100DC8121 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Share.strings"; sourceTree = "<group>"; };
 		436A8C9B2AC1A1B100DC8121 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/TabLocation.strings"; sourceTree = "<group>"; };
 		436A90A12A52E6A0007F78DE /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/CustomizeFirefoxHome.strings; sourceTree = "<group>"; };
@@ -5827,6 +5828,7 @@
 		43AE0B4E2B30608200BCF6CC /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/CredentialProvider.strings; sourceTree = "<group>"; };
 		43AE0B4F2B30608200BCF6CC /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/FirefoxLogins.strings; sourceTree = "<group>"; };
 		43AE0B502B30608200BCF6CC /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/LoginsHelper.strings; sourceTree = "<group>"; };
+		43AE453D2E4A08AA003EDD0D /* ny */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ny; path = ny.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		43AEF4462C205281006842B1 /* kk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kk; path = kk.lproj/ActivityStream.strings; sourceTree = "<group>"; };
 		43AEF4472C205281006842B1 /* kk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kk; path = kk.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
 		43AEF4482C205281006842B1 /* kk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kk; path = kk.lproj/EnhancedTrackingProtection.strings; sourceTree = "<group>"; };
@@ -6033,6 +6035,7 @@
 		43BC52062A2DFA7C0088B9A2 /* is */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = is; path = is.lproj/RememberCard.strings; sourceTree = "<group>"; };
 		43BC52072A2DFA7C0088B9A2 /* is */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = is; path = is.lproj/UpdateCard.strings; sourceTree = "<group>"; };
 		43BC81C32D5A14EF00112B50 /* es-AR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-AR"; path = "es-AR.lproj/ExternalLink.strings"; sourceTree = "<group>"; };
+		43BC832E2E4A096C0079D038 /* tzm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tzm; path = tzm.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		43BCA72729F69CA90072E1B7 /* oc */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = oc; path = oc.lproj/BookmarkPanelDeleteConfirm.strings; sourceTree = "<group>"; };
 		43BCC2462C2054E000B1598F /* ug */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ug; path = ug.lproj/ActivityStream.strings; sourceTree = "<group>"; };
 		43BCC2472C2054E000B1598F /* ug */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ug; path = ug.lproj/AddressToolbar.strings; sourceTree = "<group>"; };
@@ -15943,6 +15946,9 @@
 				ab,
 				scn,
 				tg,
+				"es-ES",
+				ny,
+				tzm,
 			);
 			mainGroup = F84B21B51A090F8100AAB793;
 			packageReferences = (
@@ -24968,6 +24974,9 @@
 				431889CA2CD8E1A600365FD8 /* ab */,
 				4385A45A2D1980CD0003475A /* scn */,
 				43E58E852D6C8B9300B07153 /* tg */,
+				436A776C2E4A07C80050B1F0 /* es-ES */,
+				43AE453D2E4A08AA003EDD0D /* ny */,
+				43BC832E2E4A096C0079D038 /* tzm */,
 			);
 			name = WidgetIntents.intentdefinition;
 			sourceTree = "<group>";
