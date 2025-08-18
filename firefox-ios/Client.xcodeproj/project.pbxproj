@@ -4590,6 +4590,7 @@
 		435E6AEC2A2DFAD90062B28C /* lo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lo; path = lo.lproj/Footer.strings; sourceTree = "<group>"; };
 		435E6AED2A2DFAD90062B28C /* lo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lo; path = lo.lproj/RememberCard.strings; sourceTree = "<group>"; };
 		435E6AEE2A2DFAD90062B28C /* lo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lo; path = lo.lproj/UpdateCard.strings; sourceTree = "<group>"; };
+		435E718F2E5341A000698DB8 /* es-ES */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-ES"; path = "es-ES.lproj/WidgetIntents.strings"; sourceTree = "<group>"; };
 		435E7439293E0A50004A8A9C /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Alerts.strings"; sourceTree = "<group>"; };
 		435E743A293E0A50004A8A9C /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/TabsTray.strings"; sourceTree = "<group>"; };
 		435E83232CE221D400F6D2FA /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LibraryPanel.strings; sourceTree = "<group>"; };
@@ -5507,6 +5508,7 @@
 		439645832CE2239F00241FFE /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/LibraryPanel.strings"; sourceTree = "<group>"; };
 		43964FF82C7C9E89001C730A /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/NativeErrorPage.strings; sourceTree = "<group>"; };
 		439691A02AEFC7C900ED7ADA /* kk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = kk; path = kk.lproj/Shopping.strings; sourceTree = "<group>"; };
+		4396A4372E5342EE0062CCFF /* tzm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tzm; path = tzm.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		4396BBE32A0BCCD200482ABA /* nn */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nn; path = nn.lproj/FirefoxSync.strings; sourceTree = "<group>"; };
 		4396BBE42A0BCCD200482ABA /* nn */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nn; path = nn.lproj/Upgrade.strings; sourceTree = "<group>"; };
 		4396C29A2C57B42700837488 /* si */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = si; path = si.lproj/EditAddress.strings; sourceTree = "<group>"; };
@@ -6650,6 +6652,7 @@
 		43E1D7B029FFD6B5008F2117 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Notification.strings; sourceTree = "<group>"; };
 		43E1D7B129FFD6B5008F2117 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/ZoomPageBar.strings; sourceTree = "<group>"; };
 		43E1DCD82C7C9AAB008E952F /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/NativeErrorPage.strings"; sourceTree = "<group>"; };
+		43E1E6CA2E53425C00E9B9AC /* ny */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ny; path = ny.lproj/WidgetIntents.strings; sourceTree = "<group>"; };
 		43E1FE0129F69D1200F5B25F /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/Alert.strings"; sourceTree = "<group>"; };
 		43E1FE0229F69D1200F5B25F /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/BiometricAuthentication.strings"; sourceTree = "<group>"; };
 		43E1FE0329F69D1200F5B25F /* sat-Olck */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sat-Olck"; path = "sat-Olck.lproj/Edit Card.strings"; sourceTree = "<group>"; };
@@ -15943,6 +15946,9 @@
 				ab,
 				scn,
 				tg,
+				"es-ES",
+				ny,
+				tzm,
 			);
 			mainGroup = F84B21B51A090F8100AAB793;
 			packageReferences = (
@@ -24968,6 +24974,9 @@
 				431889CA2CD8E1A600365FD8 /* ab */,
 				4385A45A2D1980CD0003475A /* scn */,
 				43E58E852D6C8B9300B07153 /* tg */,
+				435E718F2E5341A000698DB8 /* es-ES */,
+				43E1E6CA2E53425C00E9B9AC /* ny */,
+				4396A4372E5342EE0062CCFF /* tzm */,
 			);
 			name = WidgetIntents.intentdefinition;
 			sourceTree = "<group>";
