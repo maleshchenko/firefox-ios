@@ -25,6 +25,9 @@
 /* Label for row in About screen */
 "About.rowRights" = "Os seus dereitos";
 
+/* Label for row in About screen */
+"About.rowTerms" = "Temos de uso";
+
 /* Label on About screen */
 "About.safariBullet1" = "Bloquear rastrexadores para mellorar a privacidade";
 
