@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/385068151",
-    "assets_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/385068151/assets",
-    "upload_url": "https://uploads.github.com/repos/FirefoxUX/acorn-icons/releases/385068151/assets{?name,label}",
-    "html_url": "https://github.com/FirefoxUX/acorn-icons/releases/tag/v.1.123.0",
-    "id": 385068151,
+    "url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/407401947",
+    "assets_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/407401947/assets",
+    "upload_url": "https://uploads.github.com/repos/FirefoxUX/acorn-icons/releases/407401947/assets{?name,label}",
+    "html_url": "https://github.com/FirefoxUX/acorn-icons/releases/tag/v1.136.0",
+    "id": 407401947,
     "author": {
         "login": "mdiaz040",
         "id": 302285759,
@@ -25,18 +25,18 @@
         "user_view_type": "public",
         "site_admin": false
     },
-    "node_id": "RE_kwDOI1CID84W86x3",
-    "tag_name": "v.1.123.0",
+    "node_id": "RE_kwDOI1CID84YSHXb",
+    "tag_name": "v1.136.0",
     "target_commitish": "main",
-    "name": "v.1.123.0",
+    "name": "v1.136.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-09-08T21:14:48Z",
-    "updated_at": "2026-09-08T21:16:08Z",
-    "published_at": "2026-09-08T21:15:52Z",
+    "created_at": "2026-10-09T01:19:58Z",
+    "updated_at": "2026-10-09T01:21:03Z",
+    "published_at": "2026-10-09T01:21:03Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/tarball/v.1.123.0",
-    "zipball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/zipball/v.1.123.0",
-    "body": "# [Changelog]\r\n### [v1.123.0]\u2028\r\n### Added\r\n#### Mobile\r\n- PDF\r\n  - onboardingToolbarIconBottomJapan-notselected.pdf\r\n  - onboardingToolbarIconTopJapan-selected.pdf\r\n\r\n\r\n### Changed\r\n#### Mobile\r\n- PDF\r\n  - onboardingThemeLightJapan.pdf\r\n  - onboardingTrackersJapan.pdf\r\n  - onboardingSyncWithIconsJapan.pdf\r\n  - onboardingThemeSystemJapan.pdf\r\n  - onboardingThemeDarkJapan.pdf\r\n  - onboardingToolbarIconBottomJapan-selected.pdf\r\n  - onboardingToolbarIconTopJapan-notselected.pdf"
+    "tarball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/tarball/v1.136.0",
+    "zipball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/zipball/v1.136.0",
+    "body": "# [Changelog]\r\n### [v1.136.0]\u2028\r\n### Added\r\n#### Mobile\r\n- PDF\r\n    - onboardingAdBlockerMobileLandscapeDark.pdf\r\n    - onboardingAdBlockerMobileLandscapeLight.pdf\r\n    - onboardingAdBlockerMobileLandscapePrivate.pdf\r\n    - onboardingAdBlockerMobilePortraitDark.pdf\r\n    - onboardingAdBlockerMobilePortraitLight.pdf\r\n    - onboardingAdBlockerMobilePortraitPrivate.pdf\r\n    - onboardingAdBlockerTabletLandscapeDark.pdf\r\n    - onboardingAdBlockerTabletLandscapeLight.pdf\r\n    - onboardingAdBlockerTabletLandscapePrivate.pdf\r\n    - onboardingAdBlockerTabletPortraitDark.pdf\r\n    - onboardingAdBlockerTabletPortraitLight.pdf\r\n    - onboardingAdBlockerTabletPortraitPrivate.pdf\r\n\r\n### Deleted\r\n#### Mobile\r\n- PDF\r\n    - onboardingAdBlockerDark.pdf\r\n    - onboardingAdBlockerLight.pdf"
 }
