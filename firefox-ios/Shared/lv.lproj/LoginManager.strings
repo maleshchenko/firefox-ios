@@ -32,7 +32,7 @@
 "Logins will be removed from all connected devices." = "Pieteikšanās vienumi tiks noņemti visās savienotajās ierīcēs.";
 
 /* Label describing when the current login was last modified. %@ is the timestamp. */
-"Modified %@" = "Rediģēts %@";
+"Modified %@" = "Labots %@";
 
 /* Label displayed when no logins are found after searching. */
 "No logins found" = "Nav nevienas paroles";
@@ -51,6 +51,9 @@
 
 /* Accessibility label for the search input field in the Logins list */
 "Search Input Field" = "Meklēšanas ievades lauks";
+
+/* Title for the search field at the top of the Logins list screen */
+"SearchInput.Title.Search.v106" = "Meklēt";
 
 /* Label for the button used to select all logins. */
 "Select All" = "Izvēlēties visu";
